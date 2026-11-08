@@ -190,4 +190,4 @@ This repository serves as the official landing page for Spirit of the North. The
 **Get the most recent version of Spirit of the North today!**
 
 ---
-**Last updated:** 2026-11-07 20:40:55 UTC
+**Last updated:** 2026-11-08 00:13:47 UTC
